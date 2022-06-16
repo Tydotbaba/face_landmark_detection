@@ -1,8 +1,8 @@
-# face_landmark_detection
+# Face Landmark Detection
 
 
 ## Setup
-This is one of my first projects on computer vision and image processing. 
+This is one of my projects on computer vision and image processing. 
 It is built for web using React.
 
 ## Frameworks Used 
